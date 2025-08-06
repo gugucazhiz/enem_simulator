@@ -1,0 +1,241 @@
+[
+  {
+    "numero": "141",
+    "enunciado": "No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos\nficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto,\num sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão\ndepositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com\nseu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano,\ntrês cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro\nano. Todos os cartões têm a mesma probabilidade de serem sorteados.Qual a probabilidade de o vencedor do sorteio ser um estudante de terceiro ano?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Análise Combinatória em Matemática,",
+      "Probabilidade,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais"
+    ]
+  },
+  {
+    "numero": "142",
+    "enunciado": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto\ncujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador\ndesse vilarejo consome, em média, 200 litros de água por dia.No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água\nnos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório\ne constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água\ndurante os 10 dias seguintes. Considere 3 como aproximação paraπ.Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo\nque o reservatório não fique sem água nos próximos 10 dias?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Geometria Espacial,",
+      "Cilindro,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "143",
+    "enunciado": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com\n10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos\ndos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado,\na lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%.A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma\nquantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para\na creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista\nde espera no próximo ano seja 25% menor que o deste ano.O número mínimo de salas que deverão ser construídas é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Porcentagem"
+    ]
+  },
+  {
+    "numero": "144",
+    "enunciado": "A foto mostra a construção de uma cisterna destinada\nao armazenamento de água. Uma cisterna como essa, na\nforma de cilindro circular reto com 3 m² de área da base,\nfoi abastecida por um curso-d’água com vazão constante.\nO seu proprietário registrou a altura do nível da água no\ninterior da cisterna durante o abastecimento em diferentes\nmomentos de um mesmo dia, conforme o quadro.Qual foi a vazão, em metro cúbico por hora, do\ncurso-d’água que abasteceu a cisterna?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Física Matemática,",
+      "Raciocínio Lógico,",
+      "Geometria Espacial,",
+      "Cilindro,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "145",
+    "enunciado": "Num certo momento de um jogo digital, a tela\napresenta a imagem representada na figura. O ponto Q1representa a posição de um jogador que está com a bola,\nos pontos Q2, Q3, Q4, Q5e Q6\n também indicam posições\nde jogadores da mesma equipe, e os pontos A e B indicam\nos dois pés da trave mais próxima deles. No momento da\npartida retratado, o jogador Q1tem a posse da bola, que\nserá passada para um dos outros jogadores das posições\nQn, n ∈ {2, 3, 4, 5, 6}, cujo ângulotenha a mesma\nmedida do ânguloQual é o jogador que receberá a bola?",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Raciocínio Lógico,",
+      "Ângulos - Lei Angular de Thales,",
+      "Circunferências e Círculos,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "146",
+    "enunciado": "O triângulo da figura é denominado triângulo mágico.\nNos círculos, escrevem-se os números de 1 a 6, sem\nrepetição, com um número em cada círculo. O objetivo\né distribuir os números de forma que as somas dos\nnúmeros em cada lado do triângulo sejam iguais.Considere que os números colocados nos vértices\ndo triângulo estejam em progressão aritmética de razão\nigual a 2.Nas condições propostas, quais as possíveis soluções\npara as somas dos números que formam os lados do\ntriângulo?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Progressões,",
+      "Raciocínio Lógico,",
+      "Progressão Aritmética - PA,",
+      "Sistemas de Numeração  e  Operações Fundamentais"
+    ]
+  },
+  {
+    "numero": "147",
+    "enunciado": "Alguns estudos comprovam que os carboidratos\nfornecem energia ao corpo, preservam as proteínas\nestruturais dos músculos durante a prática de atividade\nfísica e ainda dão força para o cérebro coordenar os\nmovimentos, o que de fato tem impacto positivo no\ndesenvolvimento do praticante. O ideal é consumir 1 grama\nde carboidrato para cada minuto de caminhada.CIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o\ndesempenho do atleta?Revista Saúde! É Vital,n. 330, nov. 2010 (adaptado).Um casal realizará diariamente 30 minutos de\ncaminhada, ingerindo, antes dessa atividade, a quantidade\nideal de carboidratos recomendada. Para ter o consumo ideal\napenas por meio do consumo de pão de fôrma integral, o\ncasal planeja garantir o suprimento de pães para um período\nde 30 dias ininterruptos.Sabe-se que cada pacote desse pão\nvem com 18 fatias, e que cada uma delas tem 15 gramas\nde carboidratos.A quantidade mínima de pacotes de pão de fôrma\nnecessários para prover o suprimento a esse casal é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas,",
+      "Regra de Três"
+    ]
+  },
+  {
+    "numero": "148",
+    "enunciado": "O mastro de uma bandeira foi instalado\nperpendicularmente ao solo em uma região plana.\nDevido aos fortes ventos, três cabos de aço, de mesmo\ncomprimento, serão instalados para dar sustentação ao\nmastro. Cada cabo de aço ficará perfeitamente esticado,\ncom uma extremidade num ponto P do mastro, a uma\naltura h do solo, e a outra extremidade, num ponto no\nchão, como mostra a figura.Os cabos de aço formam um ânguloαcom o plano\ndo chão.Por medida de segurança, há apenas três opções de\ninstalação:• opção I: h = 11 m eα= 30°• opção II: h = 12 m eα= 45°• opção III: h = 18 m eα= 60°A opção a ser escolhida é aquela em que a medida\ndos cabos seja a menor possível.Qual será a medida, em metro, de cada um dos cabos a\nserem instalados?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Geometria Plana,",
+      "Raciocínio Lógico,",
+      "Ângulos - Lei Angular de Thales,",
+      "Triângulos,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "149",
+    "enunciado": "Um controlador de voo dispõe de um instrumento que\ndescreve a altitude de uma aeronave em voo, em função\nda distância em solo. Essa distância em solo é a medida na\nhorizontal entre o ponto de origem do voo até o ponto que\nrepresenta a projeção ortogonal da posição da aeronave,\nem voo, no solo. Essas duas grandezas são dadas numa\nmesma unidade de medida.A tela do instrumento representa proporcionalmente\nas dimensões reais das distâncias associadas ao voo.\nA figura apresenta a tela do instrumento depois de\nconcluída a viagem de um avião, sendo a medida do lado\nde cada quadradinho da malha igual a 1 cm.Essa tela apresenta os dados de um voo cuja maior\naltitude alcançada foi de 5 km.A escala em que essa tela representa as medidas reais é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Razão e Proporção; e Números Proporcionais,",
+      "Sistema de Unidade de Medidas,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "150",
+    "enunciado": "Dirigir após ingerir bebidas alcoólicas é uma atitude\nextremamente perigosa, uma vez que, a partir da primeira\ndose, a pessoa já começa a ter perda de sensibilidade\nde movimentos e de reflexos. Apesar de a eliminação e\nabsorção do álcool depender de cada pessoa e de como\no organismo consegue metabolizar a substância, ao final\nda primeira hora após a ingestão, a concentração de álcool\n(C) no sangue corresponde a aproximadamente 90% da\nquantidade (q) de álcool ingerida, e a eliminação total\ndessa concentração pode demorar até 12 horas.Disponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).Nessas condições, ao final da primeira hora após a ingestão\nda quantidade q de álcool, a concentração C dessa\nsubstância no sangue é expressa algebricamente por",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Física Matemática,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "151",
+    "enunciado": "Um investidor iniciante observou o gráfico que\napresenta a evolução dos valores de duas criptomoedas\nA e B em relação ao tempo.Durante horas consecutivas, esses valores foram\nobservados em nove instantes, representados por horas\nexatas.Em quantos desses instantes a criptomoeda A estava\nmais valorizada do que a criptomoeda B?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "152",
+    "enunciado": "A exposição a alguns níveis sonoros pode causar\nlesões auditivas. Por isso, em uma indústria, são adotadas\nmedidas preventivas de acordo com a máquina que o\nfuncionário opera e o nível N de intensidade do som,\nmedido em decibel (dB), a que o operário é exposto,\nsendoI a intensidade do som e\nI0= 10−12W/m2.Disponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).Quando o som é considerado baixo, ou seja,\nN = 48 dB ou menos, deve ser utilizada a medida\npreventiva I. No caso de o som ser moderado, quando\nN está no intervalo (48 dB, 55 dB), deve ser utilizada a\nmedida preventiva II. Quando o som é moderado alto,\nque equivale a N no intervalo (55 dB, 80 dB), a medida\npreventiva a ser usada é a III. Se N estiver no intervalo\n(80 dB, 115 dB), quando o som é considerado alto, deve ser\nutilizada a medida preventiva IV. E se o som é considerado\nmuito alto, com N maior que 115 dB, deve-se utilizar a\nmedida preventiva V.Uma nova máquina, com I = 8 × 10−8W/m2, foi adquirida\ne será classificada de acordo com o nível de ruído\nque produz.Considere 0,3 como aproximação para log102.O funcionário que operará a nova máquina deverá adotar\na medida preventiva",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Funções,",
+      "Logaritmos,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais"
+    ]
+  },
+  {
+    "numero": "153",
+    "enunciado": "Um supermercado conta com cinco caixas disponíveis\npara pagamento. Foram instaladas telas que apresentam\no tempo médio gasto por cada caixa para iniciar e finalizar o\natendimento de cada cliente, e o número de pessoas\npresentes na fila de cada caixa em tempo real. Um cliente,\nna hora de passar sua compra, sabendo que cada um\ndos cinco caixas iniciará um novo atendimento naquele\nmomento, pretende gastar o menor tempo possível de\nespera na fila. Ele observa que as telas apresentavam as\ninformações a seguir.• Caixa I: atendimento 12 minutos, 5 pessoas na fila.• Caixa II: atendimento 6 minutos, 9 pessoas na fila.• Caixa III: atendimento 5 minutos, 6 pessoas na fila.• Caixa IV: atendimento 15 minutos, 2 pessoas na fila.• Caixa V: atendimento 9 minutos, 3 pessoas na fila.Para alcançar seu objetivo, o cliente deverá escolher o caixa",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "154",
+    "enunciado": "As figuras pintadas no quadro da sala de estar de\numa residência representam as silhuetas de parte das\ntorres de um castelo e, ao fundo, a de uma lua cheia.\nA lua foi pintada na forma de um círculo, e o telhado da\ntorre mais alta, na forma de triângulo equilátero, foi pintado\nsobrepondo parte da lua. O centro da lua coincide com um\ndos vértices do telhado da torre mais alta.Nesse quadro, a parte da lua escondida atrás da torre\nmais alta do castelo pode ser representada por um",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Circunferências e Círculos,"
+    ]
+  },
+  {
+    "numero": "155",
+    "enunciado": "Na planta baixa de um clube, a piscina é representada\npor um quadrado cuja área real mede 400 m². Ao redor\ndessa piscina, será construída uma calçada, de largura\nconstante igual a 5 m.Qual é a medida da área, em metro quadrado, ocupada\npela calçada?",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Áreas e Perímetros,",
+      "Quadriláteros,"
+    ]
+  },
+  {
+    "numero": "156",
+    "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um\naplicativo instalado em seu celular para monitorar a\nvariação da intensidade do sinal de internet recebido\npelo aparelho durante o deslocamento. Chegando ao seu\ndestino, o aplicativo forneceu este gráfico:Por quantos minutos, durante essa caminhada, o celular\ndessa pessoa ficou sem receber sinal de internet?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "157",
+    "enunciado": "Um professor, para promover a aprendizagem dos\nestudantes em estatística, propôs uma atividade. O objetivo\nera verificar o percentual de estudantes com massa corporal\nabaixo da média e altura acima da média de um grupo de\nestudantes. Para isso, usando uma balança e uma fita\nmétrica, avaliou uma amostra de dez estudantes, anotando as\nmedidas observadas. O gráfico apresenta a massa corporal,\nem quilograma, e a altura, em metro, obtidas na atividade.Após a coleta dos dados, os estudantes calcularam a\nmédia dos valores obtidos, referentes à massa corporal e\nà altura, obtendo, respectivamente, 80 kg e 1,65 m.Qual é o percentual de estudantes dessa amostra com\nmassa corporal abaixo da média e altura acima da média?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas,",
+      "Porcentagem,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "158",
+    "enunciado": "Um pescador tem um custo fixo diário de R$ 900,00\ncom combustível, iscas, manutenção de seu barco e outras\npequenas despesas. Ele vende cada quilograma de peixe por\nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00\npor dia. Sozinho, ele consegue, ao final de um dia de trabalho,\npescar 180 kg de peixe, o que é suficiente apenas para cobrir o\ncusto fixo diário.Portanto, precisa contratar ajudantes, pagando\npara cada um R$ 250,00 por dia de trabalho. Além desse valor,\n4% da receita obtida pela venda de peixe é repartida igualmente\nentre os ajudantes. Considerando o tamanho de seu barco, ele\npode contratar até 5 ajudantes. Ele sabe que com um ajudante\na pesca diária é de 300 kg e que, a partir do segundo\najudante contratado, aumenta-se em 100 kg a quantidade de\npeixe pescada por ajudante em um dia de trabalho.A quantidade mínima de ajudantes que esse pescador\nprecisa contratar para conseguir o lucro diário pretendido é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Álgebra,",
+      "Matemática Financeira,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "159",
+    "enunciado": "Um agricultor é informado sobre um método de proteção\npara sua lavoura que consiste em inserir larvas específicas,\nde rápida reprodução. A reprodução dessas larvas faz com\nque sua população multiplique-se por 10 a cada 3 dias e,\npara evitar eventuais desequilíbrios, é possível cessar essa\nreprodução aplicando-se um produto X. O agricultor decide\niniciar esse método com 100 larvas e dispõe de 5 litros do\nproduto X, cuja aplicação recomendada é de exatamente\n1 litro para cada população de 200 000 larvas. A quantidade\ntotal do produto X de que ele dispõe deverá ser aplicada\nde uma única vez.Quantos dias após iniciado esse método o agricultor\ndeverá aplicar o produto X?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Progressões,",
+      "Raciocínio Lógico,",
+      "Progressão Geométrica - PG,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "160",
+    "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos,\nfoi solicitado ao usuário que criasse uma senha, sendo\npermitido o uso somente dos seguintes caracteres:• algarismos de 0 a 9;\n• 26 letras minúsculas do alfabeto;• 26 letras maiúsculas do alfabeto;• 6 caracteres especiais !, @, #, $, * , &.Três tipos de estruturas para senha foram apresentadas\nao usuário:• tipo I: formada por quaisquer quatro caracteres\ndistintos, escolhidos dentre os permitidos;• tipo II: formada por cinco caracteres distintos,\niniciando por três letras, seguidas por um algarismo\ne, ao final, um caractere especial;• tipo III: formada por seis caracteres distintos, iniciando\npor duas letras, seguidas por dois algarismos e, ao\nfinal, dois caracteres especiais.Considere p1, p2e p3as probabilidades de se\ndescobrirem ao acaso, na primeira tentativa, as senhas\ndos tipos I, II e III, respectivamente.Nessas condições, o tipo de senha que apresenta a\nmenor probabilidade de ser descoberta ao acaso, na\nprimeira tentativa, é o",
+    "topicos": [
+      "Matemática",
+      "Análise Combinatória em Matemática,",
+      "Probabilidade,",
+      "Raciocínio Lógico,"
+    ]
+  }
+]

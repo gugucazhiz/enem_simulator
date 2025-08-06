@@ -1,0 +1,223 @@
+[
+  {
+    "numero": "161",
+    "enunciado": "Uma loja vende seus produtos de duas formas:\nà vista ou financiado em três parcelas mensais iguais.\nPara definir o valor dessas parcelas nas vendas\nfinanciadas, a loja aumenta em 20% o valor do produto\nà vista e divide esse novo valor por 3. A primeira parcela\ndeve ser paga no ato da compra, e as duas últimas,\nem 30 e 60 dias após a compra.Um cliente da loja decidiu comprar, de forma financiada,\num produto cujo valor à vista é R$ 1 500,00.Utilize 5,29 como aproximação para√28.A taxa mensal de juros compostos praticada nesse\nfinanciamento é de",
+    "topicos": [
+      "Matemática Financeira",
+      "Conceitos fundamentais de Matemática Financeira,",
+      "Juros compostos,"
+    ]
+  },
+  {
+    "numero": "162",
+    "enunciado": "Para concretar a laje de sua residência, uma pessoa\ncontratou uma construtora. Tal empresa informa que o\npreço y do concreto bombeado é composto de duas\npartes: uma fixa, chamada de taxa de bombeamento,\ne uma variável, que depende do volume x de concreto\nutilizado. Sabe-se que a taxa de bombeamento custa\nR$ 500,00 e que o metro cúbico do concreto bombeado\né de R$ 250,00.A expressão que representa o preço y em função do\nvolume x, em metro cúbico, é",
+    "topicos": [
+      "Matemática",
+      "Álgebra,",
+      "Raciocínio Lógico,"
+    ]
+  },
+  {
+    "numero": "163",
+    "enunciado": "Uma empresa de segurança domiciliar oferece o serviço\nde patrulha noturna, no qual vigilantes em motocicletas\nfazem o monitoramento periódico de residências.\nA empresa conta com uma base, de onde acompanha\no trajeto realizado pelos vigilantes durante as patrulhas\ne orienta o deslocamento de equipes de reforço quando\nnecessário. Numa patrulha rotineira, sem ocorrências,\num vigilante conduziu sua motocicleta a uma velocidade\nconstante durante todo o itinerário estabelecido, levando\n30 minutos para conclusão. De acordo com os registros\ndo GPS alocado na motocicleta, a distância da posição\ndo vigilante à base, ao longo do tempo de realização do\ntrajeto, é descrita pelo gráfico.A vista superior da trajetória realizada pelo vigilante\ndurante a patrulha registrada no gráfico é descrita pela\nrepresentação",
+    "topicos": [
+      "Matemática",
+      "Raciocínio Lógico,",
+      "Análise de Tabelas e Gráficos,"
+    ]
+  },
+  {
+    "numero": "164",
+    "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização,\numa já está completamente imunizada, a dos trabalhadores da saúde.De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a\ncategoria de",
+    "topicos": [
+      "Matemática",
+      "Raciocínio Lógico,",
+      "Análise de Tabelas e Gráficos,"
+    ]
+  },
+  {
+    "numero": "165",
+    "enunciado": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.Nessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos\nlados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.A área a ser revestida em cerâmica, em metro quadrado, mede",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Áreas e Perímetros,",
+      "Polígonos Regulares,",
+      "Quadriláteros"
+    ]
+  },
+  {
+    "numero": "166",
+    "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte\nde seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que\napresenta o número de horas diárias por atividade.Ela deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades\nfísicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h)\nsão os seguintes:O dia da semana em que será comemorado o aniversário é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "167",
+    "enunciado": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número\nde alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos\nmatriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos.\nA diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel\nofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um\ndesconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas,",
+      "Regra de Três,",
+      "Porcentagem"
+    ]
+  },
+  {
+    "numero": "168",
+    "enunciado": "Em um colégio público, a admissão no primeiro ano se\ndá por sorteio. Neste ano há 55 candidatos, cujas inscrições\nsão numeradas de 01 a 55. O sorteio de cada número de\ninscrição será realizado em etapas, utilizando-se duas\nurnas. Da primeira urna será sorteada uma bola, dentre\nbolas numeradas de 0 a 9, que representará o algarismo\ndas unidades do número de inscrição a ser sorteado e, em\nseguida, da segunda urna, será sorteada uma bola para\nrepresentar o algarismo das dezenas desse número. Depois\ndo primeiro sorteio, e antes de se sortear o algarismo das\ndezenas, as bolas que estarão presentes na segunda\nurna serão apenas aquelas cujos números formam, com o\nalgarismo já sorteado, um número de 01 a 55.As probabilidades de os candidatos de inscrição número\n50 e 02 serem sorteados são, respectivamente,",
+    "topicos": [
+      "Matemática",
+      "Probabilidade,"
+    ]
+  },
+  {
+    "numero": "169",
+    "enunciado": "O esquema mostra como a intensidade luminosa\ndecresce com o aumento da profundidade em um rio,\nsendo L0a intensidade na sua superfície.Considere que a intensidade luminosa diminui, a cada\nmetro acrescido na profundidade, segundo o mesmo\npadrão do esquema.A intensidade luminosa correspondente à profundidade\nde 6 m é igual a",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Progressões,",
+      "Progressão Geométrica - PG,",
+      "Sistemas de Numeração  e  Operações Fundamentais"
+    ]
+  },
+  {
+    "numero": "170",
+    "enunciado": "Analisando as vendas de uma empresa, o gerente\nconcluiu que o montante diário arrecadado, em milhar de real,\npoderia ser calculado pela expressão V(x) = x2/4 - 10x + 105,  em que os valores de x representam os dias do mês,\nvariando de 1 a 30.Um dos fatores para avaliar o desempenho mensal\nda empresa é verificar qual é o menor montante diário V0arrecadado ao longo do mês e classificar o desempenho\nconforme as categorias apresentadas a seguir, em que as\nquantidades estão expressas em milhar de real.• Ótimo: V0≥ 24\n  • Bom: 20 ≤ V0< 24\n  • Normal: 10 ≤ V0< 20\n  • Ruim: 4 ≤ V0< 10  \n• Péssimo: V0< 4No caso analisado, qual seria a classificação do\ndesempenho da empresa?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Álgebra,",
+      "Matemática Financeira,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "171",
+    "enunciado": "O calendário maia apresenta duas contagens\nsimultâneas de anos, o chamado ano Tzolkim, composto\npor 260 dias e que determinava o calendário religioso,\ne o ano Haab, composto por 365 dias e que determinava o\ncalendário agrícola. Um historiador encontrou evidências\nde que gerações de uma mesma família governaram certa\ncomunidade maia pelo período de 20 ciclos, sendo cada\nciclo formado por 52 anos Haab.Disponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.De acordo com as informações fornecidas, durante\nquantos anos Tzolkim aquela comunidade maia foi\ngovernada por tal família?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas,",
+      "Regra de Três"
+    ]
+  },
+  {
+    "numero": "172",
+    "enunciado": "Sejam a, b e c as medidas dos lados de um triângulo\nretângulo, tendo a como medida da hipotenusa. Esses\nvalores a, b e c são, respectivamente, os diâmetros dos\ncírculos C1, C2e C3, como apresentados na figura.Observe que essa construção assegura, pelo teorema\nde Pitágoras, que área (C1) = área (C2) + área (C3).Um professor de matemática era conhecedor dessa\nconstrução e, confraternizando com dois amigos em uma\npizzaria onde são vendidas pizzas somente em formato\nde círculo, lançou um desafio: mesmo sem usar um\ninstrumento de medição, poderia afirmar com certeza se\na área do círculo correspondente à pizza que ele pedisse\nera maior, igual ou menor do que a soma das áreas das\npizzas dos dois amigos. Assim, foram pedidas três pizzas.\nO professor as dividiu ao meio e formou um triângulo com\nos diâmetros das pizzas, conforme indicado na figura.A partir da medida do ânguloα, o professor afirmou\nque a área de sua pizza é maior do que a soma das áreas\ndas outras duas pizzas.A área da pizza do professor de matemática é maior do\nque a soma das áreas das outras duas pizzas, pois",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Raciocínio Lógico,",
+      "Ângulos - Lei Angular de Thales,",
+      "Triângulos,",
+      "Relações Métricas no Triângulo Retângulo,",
+      "Áreas e Perímetros"
+    ]
+  },
+  {
+    "numero": "173",
+    "enunciado": "Entre maratonistas, um parâmetro utilizado é o de\neconomia de corrida (EC). O valor desse parâmetro é\ncalculado pela razão entre o consumo de oxigênio, em\nmililitro (mL) por minuto (min), e a massa, em quilograma (kg),\ndo atleta correndo a uma velocidade constante.Disponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).Um maratonista, visando melhorar sua performance,\nauxiliado por um médico, mensura o seu consumo de\noxigênio por minuto a velocidade constante. Com base\nnesse consumo e na massa do atleta, o médico calcula\no EC do atleta.A unidade de medida da grandeza descrita pelo\nparâmetro EC é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Física Matemática,",
+      "Raciocínio Lógico,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "174",
+    "enunciado": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação\nbidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou\na subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete\ne observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na\ndireção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a\nposição da poltrona na fileira, respectivamente.A poltrona dessa pessoa é a identificada por",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Física Matemática,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "175",
+    "enunciado": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos\nem cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e\numa cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço\nde um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.Qual o preço, em real, de uma cartela de tíquetes vermelhos?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Álgebra,",
+      "Matemática Financeira,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas"
+    ]
+  },
+  {
+    "numero": "176",
+    "enunciado": "Os números figurados pentagonais provavelmente\nforam introduzidos pelos pitagóricos por volta do\nséculo V a.C. As figuras ilustram como obter os seis\nprimeiros deles, sendo os demais obtidos seguindo o\nmesmo padrão geométrico.O oitavo número pentagonal é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Progressões,",
+      "Raciocínio Lógico,",
+      "Progressão Aritmética - PA,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "177",
+    "enunciado": "A figura ilustra uma roda-gigante no exato instante em\nque a cadeira onde se encontra a pessoa P está no ponto\nmais alto dessa roda-gigante.Com o passar do tempo, à medida que a roda-gigante\ngira, com velocidade angular constante e no sentido\nhorário, a altura da cadeira onde se encontra a pessoa P,\nem relação ao solo, vai se alterando.O gráfico que melhor representa a variação dessa altura,\nem função do tempo, contado a partir do instante em que\na cadeira da pessoa P se encontra na posição mais alta\nda roda-gigante, é",
+    "topicos": [
+      "Matemática",
+      "Física Matemática,",
+      "Raciocínio Lógico,",
+      "Análise de Tabelas e Gráficos,"
+    ]
+  },
+  {
+    "numero": "178",
+    "enunciado": "Estudantes trabalhando com robótica criaram uma\n“torneira inteligente” que automatiza sua abertura e seu\nfechamento durante a limpeza das mãos. A tecnologia\nfunciona da seguinte forma: ao se colocarem as mãos\nsob a torneira, ela libera água durante 3 segundos para\nque a pessoa possa molhá-las. Em seguida, interrompe o\nfornecimento de água por 5 segundos, enquanto a pessoa\nensaboa suas mãos, e finaliza o ciclo liberando água para\no enxágue por mais 3 segundos. Considere o tempo ( t ),\nem segundo, contado a partir do instante em que se inicia\no ciclo. A vazão de água nessa torneira é constante.Um esboço de gráfico que descreve o volume de água\nacumulado, em litro, liberado por essa torneira durante um\nciclo de lavagem das mãos, em função do tempo (t ), em\nsegundo, é",
+    "topicos": [
+      "Matemática",
+      "Física Matemática,",
+      "Raciocínio Lógico,",
+      "Análise de Tabelas e Gráficos,"
+    ]
+  },
+  {
+    "numero": "179",
+    "enunciado": "As características culturais variam de povo para povo.\nHá notícias de um povo que possuía formas de contar\ndiferentes das nossas, como indicado no quadrinho a seguir.Segundo o padrão de contagem indicado na figura, as\nrepresentações dos numerais cinco e sete, nessa cultura,\ndevem ser, respectivamente,",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  },
+  {
+    "numero": "180",
+    "enunciado": "Um tipo de semente necessita de bastante água nos\ndois primeiros meses após o plantio. Um produtor pretende\nestabelecer o melhor momento para o plantio desse tipo de\nsemente, nos meses de outubro a março. Após consultar\na previsão do índice mensal de precipitação de chuva\n(ImPC) da região onde ocorrerá o plantio, para o período\nchuvoso de 2020-2021, ele obteve os seguintes dados:• outubro/2020: ImPC = 250 mm;• novembro/2020: ImPC = 150 mm;• dezembro/2020: ImPC = 200 mm;• janeiro/2021: ImPC = 450 mm;• fevereiro/2021: ImPC = 100 mm;• março/2021: ImPC = 200 mm.Com base nessas previsões, ele precisa escolher\ndois meses consecutivos em que a média mensal de\nprecipitação seja a maior possível.No início de qual desses meses o produtor deverá plantar\nesse tipo de semente?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Raciocínio Lógico,",
+      "Sistemas de Numeração  e  Operações Fundamentais,",
+      "Sistema de Unidade de Medidas,",
+      "Análise de Tabelas e Gráficos"
+    ]
+  }
+]
