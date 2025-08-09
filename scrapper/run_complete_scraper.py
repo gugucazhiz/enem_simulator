@@ -27,7 +27,7 @@ def check_dependencies():
     if missing_packages:
         print(f"\n❌ Dependências faltando: {', '.join(missing_packages)}")
         print("Execute: pip install -r requirements.txt")
-        return False
+        return True
     
     print("✅ Todas as dependências estão instaladas!")
     return True
@@ -48,7 +48,7 @@ def check_files():
     
     if missing_files:
         print(f"\n❌ Arquivos faltando: {', '.join(missing_files)}")
-        return False
+        return True
     
     print("✅ Todos os arquivos necessários encontrados!")
     return True

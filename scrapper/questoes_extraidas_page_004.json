@@ -1,0 +1,179 @@
+[
+  {
+    "numero": "61",
+    "enunciado": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.As dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são:• Projeto I: 1,8m, 2,0 m e 25,0 m:• Projeto II: 2,0 m. 5,0 m e 9,0 m:• Projeto Ill: 1,0 m, 6,0 m e 15,0 m;• Projeto IV: 1,5 m, 15,0 m e 4,0 m;• Projeto V: 2,5 m, 3,0 m e 12,0 m.O projeto que o casal deverá escolher será",
+    "topicos": [
+      "Matemática",
+      "Geometria Espacial,",
+      "Poliedros,"
+    ]
+  },
+  {
+    "numero": "62",
+    "enunciado": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Sistemas de Numeração  e  Operações Fundamentais,"
+    ]
+  },
+  {
+    "numero": "63",
+    "enunciado": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante processo de derretimento.Quantas dessas esferas poderão ser obtidas a partir de\ncada peça cilíndrica?",
+    "topicos": [
+      "Matemática",
+      "Geometria Espacial,",
+      "Cilindro,",
+      "Esfera,"
+    ]
+  },
+  {
+    "numero": "64",
+    "enunciado": "A luminosidadeLde uma estrela está relacionada com o raioRe com a temperaturaTdessa estrela segundo a Lei de Stefan-Boltzmann:L=c.R2.T4, em quecé uma constante igual para todas as estrelas.Disponível em: hitp://iciencia hsw.uol.com br. Acesso em: 22 nov. 2013 (adaptado).Considere duas estrelasEeF, sendo que a estrelaEtem metade do raio da estrelaFe o dobro da temperatura deF.Indique porLE, eLF, suas respectivas luminosidades.A relação entre as luminosidades dessas duas estrelas é dada por",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Circunferências e Círculos,"
+    ]
+  },
+  {
+    "numero": "65",
+    "enunciado": "Uma das informações que pode auxiliar no\ndimensionamento do número de pediatras que devem\natender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade\nde crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das\nfrequências do número de crianças por família na região\nde responsabilidade de uma UBS.O número que representa a mediana da quantidade de\ncrianças por família nessa região é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Médias,"
+    ]
+  },
+  {
+    "numero": "66",
+    "enunciado": "Em jogos de voleibol, um saque é invalidado se a bola\natingir o teto do ginásio onde ocorre o jogo. Um jogador de\numa equipe tem um saque que atinge uma grande altura.\nSeu recorde foi quando a batida do saque se iniciou a\numa altura de 1,5 m do piso da quadra, e a trajetória da  bola foi descrita pela parábolaem\nqueyrepresenta a altura da bola em relação ao eixox(das abscissas) que está localizado a 1,5 m do piso\nda quadra, como representado na figura. Suponha que\nem todas as partidas algum saque desse jogador atinja a\nmesma altura do seu recorde.A equipe desse jogador participou de um torneio de\nvoleibol no qual jogou cinco partidas, cada uma delas\nem um ginásio diferente. As alturas dos tetos desses\nginásios, em relação aos pisos das quadras, são:• ginásio I: 17 m;• ginásio Il: 18 m;• ginásio Ill: 19 m;• ginásio IV: 21 m;• ginásio V: 40 m.O saque desse atleta foi invalidado",
+    "topicos": [
+      "Matemática",
+      "Funções,",
+      "Função de 2º Grau ou Função Quadrática e Inequações,"
+    ]
+  },
+  {
+    "numero": "67",
+    "enunciado": "Uma máquina em operação tem sua temperaturaTmonitorada por meio de um registro gráfico, ao longo do tempot.Essa máquina possui um pistão cuja velocidade V varia com a temperaturaTda máquina, de acordo com à expressãoV = T2- 4. Após a máquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o registro gráfico, apresentado na figura, para avaliar à necessidade de eventuais ajustes, sabendo que a máquina apresenta falhas de funcionamento quando a velocidade do pistão se anula.Quantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?",
+    "topicos": [
+      "Matemática",
+      "Análise de Tabelas e Gráficos,"
+    ]
+  },
+  {
+    "numero": "68",
+    "enunciado": "AWorld Seresé a decisão do campeonato norte-americano de beisebol. Os dois times que chegam essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado Campeão.Considere que, em todas as partidas, a probabilidade\nde qualquer um dos dois times vencer é sempre 1/2.Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida daWorld Series?",
+    "topicos": [
+      "Matemática",
+      "Probabilidade,"
+    ]
+  },
+  {
+    "numero": "69",
+    "enunciado": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no decorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é Positiva e tem prejuízo quando essa diferença é negativa.Qual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Médias,",
+      "Análise de Tabelas e Gráficos,"
+    ]
+  },
+  {
+    "numero": "70",
+    "enunciado": "Uma montadora de automóveis divulgou que oferta a\nseus clientes mais de 1 000 configurações diferentes de\ncarro, variando o modelo, a motorização, Os opcionais e\na cor do veiculo. Atualmente, ela oferece 7 modelos de\ncarros com 2 tipos de motores: 1.0 e 1.6. Já em relação\naos opcionais, existem 3 escolhas possíveis: central\nmultimídia, rodas de liga leve e bancos de couro, podendo\no cliente optar por incluir um, dois, três ou nenhum dos\nopcionais disponíveis.Para ser fiel à divulgação feita, a quantidade mínima\nde cores que a montadora deverá disponibilizar a seus\nclientes é",
+    "topicos": [
+      "Matemática",
+      "Análise Combinatória em Matemática,"
+    ]
+  },
+  {
+    "numero": "71",
+    "enunciado": "Dentre  as diversas\n\nplanificações possíveis para o cubo, uma delas é a que se encontra apresentada na\nFigura 1.Em um cubo, foram pintados, em três de suas faces,\nquadrados de cor cinza escura, que ocupam um quarto\ndessas faces, tendo esses três quadrados um vértice em\ncomum, conforme ilustrado na Figura 2.A planificação do cubo da Figura 2, conforme o tipo de\nplanificação apresentada na Figura 1, é",
+    "topicos": [
+      "Matemática",
+      "Raciocínio Lógico,"
+    ]
+  },
+  {
+    "numero": "72",
+    "enunciado": "Cada número que identifica uma agência bancária tem quatro dígitos: N1, N2, N3, N4, mais um digito verificador N5.Todos esses dígitos são números naturais\npertencentes ao conjunto (0, 1,2,3,4,5,6,7,8,9).\nPara a determinação de N5, primeiramente multiplica-se\nordenadamente os quatro primeiros dígitos do número\nda agência por 5, 4, 3 e 2, respectivamente, somam-se\nos resultados e obtém-se S = 5N1+ 4N2+ 3N3+ 2N4.Posteriormente, encontra-se o resto da divisão de\nS por 11, denotando por R esse resto. Dessa forma, N5é\na diferença 11 - R.Considere o número de uma agência bancária cujos\nquatro primeiros dígitos são 0100.Qual é o dígito verificador N5dessa agência bancária?",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Sistemas de Numeração  e  Operações Fundamentais,"
+    ]
+  },
+  {
+    "numero": "73",
+    "enunciado": "Um robô, que tem um imã em sua base, se desloca sobre a superfície externa de um cubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de arestas  e centros de faces. Ele inicia seu deslocamento no pontoP, centro da face superior do cubo, segue para o centro da próxima face, converte à esquerda e segue para o centro da\nface seguinte, converte à direita e continua sua movimentação, sempre altemando entre conversões à esquerda e à direita quando alcança o centro de uma face. O robô só termina sua movimentação quando retorna ao pontoP. A figura apresenta os deslocamentos iniciais desse robô.A projeção ortogonal do trajeto descrito por esse robô\nsobre o plano da base, após terminada sua movimentação,\nvisualizada da posição em que se está enxergando esse\ncubo, é",
+    "topicos": [
+      "Matemática",
+      "Raciocínio Lógico,"
+    ]
+  },
+  {
+    "numero": "74",
+    "enunciado": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída, cujas medidas, indicadas em centímetro, representam os valores das dimensões da varanda na escala de 1 : 50.A medida real da área da varanda, em metro quadrado, é",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Áreas e Perímetros,"
+    ]
+  },
+  {
+    "numero": "75",
+    "enunciado": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se\nmantenha a mesma para os próximos dez dias.Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?",
+    "topicos": [
+      "Matemática",
+      "Sistemas Lineares,",
+      "Álgebra Linear,"
+    ]
+  },
+  {
+    "numero": "76",
+    "enunciado": "O pacote básico\n\nde um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo.A empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos.A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Razão e Proporção; e Números Proporcionais,"
+    ]
+  },
+  {
+    "numero": "77",
+    "enunciado": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor, percorrendo mais 1 100 m.No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível.A soma do número de voltas em tomo dos dois circuitos, no segundo dia, será",
+    "topicos": [
+      "Matemática",
+      "Geometria Plana,",
+      "Circunferências e Círculos,"
+    ]
+  },
+  {
+    "numero": "78",
+    "enunciado": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos Os seguintes resultados:• rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;• rede social B: o anúncio foi visualizado por 1.000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.Por experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.O responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes\nque compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o responsável pelo produto adotou o seguinte critério:•Q≤ 60%: não satisfatório;• 60% <Q≤ 100%: regular;• 100% <Q≤ 150%: bom:• 150% <Q≤ 190%: muito bom;• 190% <Q≤ 200%: excelente.O aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação ao que foi registrado com a primeira divulgação, foi classificado como",
+    "topicos": [
+      "Matemática",
+      "Aritmética e Problemas,",
+      "Razão e Proporção; e Números Proporcionais,",
+      "Porcentagem,"
+    ]
+  },
+  {
+    "numero": "79",
+    "enunciado": "Uma pessoa precisa se deslocar de automóvel do pontoPpara o pontoQ, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas.Por causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar “vire à esquerda”, “siga em frente” e “vire à direita”, respectivamente.A sequência de letras que descreve o caminho poligonal destacado é",
+    "topicos": [
+      "Matemática",
+      "Raciocínio Lógico,"
+    ]
+  },
+  {
+    "numero": "80",
+    "enunciado": "Uma loja\n\ncomercializa cinco modelos de Caixas-d'água (I, II, Ill, IV e V), todos em formato de cilindro reto de base circular. Os modelos Il, III, IV e V\ntêm as especificações de suas dimensões dadas em\ntelação às dimensões do modelo I, cuja profundidade éPe área da base éAb, como segue:• modelo Il: o dobro da profundidade e a metade da\nárea da base do modelo I;• modelo III: o dobro da profundidade e a metade do raio da base do modelo I;• modelo IV: a metade da profundidade e o dobro da\nárea da base do modelo I;• modelo V:a metade da profundidade e o dobro do\nraio da base do modelo I.Uma pessoa pretende comprar nessa loja o modelo de caixa-d'água que ofereça a maior capacidade volumétrica.O modelo escolhido deve ser o",
+    "topicos": [
+      "Matemática",
+      "Geometria Espacial,",
+      "Cilindro,"
+    ]
+  }
+]

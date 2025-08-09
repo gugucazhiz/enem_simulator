@@ -124,11 +124,11 @@ def main():
     if not questoes_com_topicos:
         return
     
-    prova_com_topicos_data = load_json_file('prova_2023_com_topicos.json')
+    prova_com_topicos_data = load_json_file('prova_2022_com_topicos.json')
     if not prova_com_topicos_data:
         return
     
-    prova_completa_data = load_json_file('Prova_Completa2023.json')
+    prova_completa_data = load_json_file('Prova_completa2022.json')
     if not prova_completa_data:
         return
     

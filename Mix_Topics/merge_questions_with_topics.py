@@ -112,7 +112,7 @@ def main():
         
         # Carrega o arquivo da prova completa
         print("Carregando arquivo da prova completa...")
-        with open('Prova_Completa2023.json', 'r', encoding='utf-8') as f:
+        with open('./Prova_completa2022.json', 'r', encoding='utf-8') as f:
             prova_completa_data = json.load(f)
         
         # Extrai as questões da prova completa

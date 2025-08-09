@@ -430,7 +430,7 @@ def main():
         print("🚀 Iniciando scraping de todas as páginas...")
         
         # URL base
-        base_url = "https://www.qconcursos.com/questoes-do-enem/provas/inep-2023-enem-exame-nacional-do-ensino-medio-primeiro-e-segundo-dia-edital-2023/questoes"
+        base_url = "https://www.qconcursos.com/questoes-do-enem/provas/inep-2022-enem-exame-nacional-do-ensino-medio-segundo-dia-edital-2022/questoes"
         
         # Acessar primeira página
         print(f"Acessando primeira página: {base_url}")

@@ -1,0 +1,197 @@
+[
+  {
+    "numero": "1",
+    "enunciado": "Um pai faz um balanço utilizando dois segmentos\nparalelos e iguais da mesma corda para fixar uma tábua a\numa barra horizontal. Por segurança, opta por um tipo de\ncorda cuja tensão de ruptura seja 25% superior à tensão\nmáxima calculada nas seguintes condições:• O ângulo máximo atingido pelo balanço em relação\nà vertical é igual a 90º;• Os filhos utilizarão o balanço até que tenham uma\nmassa de 24 kg.Além disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 m/s2e despreza forças dissipativas.Qual é a tensão de ruptura da corda escolhida?",
+    "topicos": [
+      "Física",
+      "Cinemática,",
+      "MCU - Movimento Circular Uniforme,",
+      "Dinâmica,",
+      "Máquina de Atwood  e Associação de Blocos"
+    ]
+  },
+  {
+    "numero": "2",
+    "enunciado": "A nanotecnologia é responsável pelo aprimoramento\nde diversos materiais, incluindo os que são impactados\ncom a presença de poluentes e da umidade na atmosfera,\ncausadores de corrosão. O processo de corrosão é\nespontâneo e provoca a deterioração de metais como\no ferro, que, em presença de oxigênio e água, sofre\noxidação, conforme ilustra a equação química:4Fe(s) + 2H2O(I) + 3O2(g)→2 Fe2O3ˑH2O (s)Uma forma de garantir a durabilidade da estrutura\nmetálica e a sua resistência à umidade consiste na\ndeposição de filmes finos nanocerâmicos à base de\nzircônia (ZrO2) e alumina (AL2O3) sobre a superficie do\nobjeto que se deseja proteger.CLEMENTE. G. A. B. F. et al. O uso de matenais hibridos ou nanocompósitos como revestimentos anticorrosivos do aço.Quimica Nova, n. 9, 2021 (adaplado).Essa nanotecnologia aplicada na proteção contra a\ncorrosão se baseia no(a)",
+    "topicos": [
+      "Química",
+      "Transformações Químicas e Energia,",
+      "Eletroquímica: Oxirredução, Potenciais Padrão de Redução, Pilha, Eletrólise e Leis de Faraday.,"
+    ]
+  },
+  {
+    "numero": "3",
+    "enunciado": "As células da epiderme da folha daTradescantia pallida purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde se encontra um pigmento que dá a coloração arroxeada a\nesse tecido. Em um experimento, um corte da epiderme\nde uma folha da trapoeraba-roxa foi imerso em ambiente\nhipotônico e, logo em seguida, foi colocado em uma\nlâmina e observado em microscópio óptico.Durante a observação desse corte, foi possível identificar o(a)",
+    "topicos": [
+      "Biologia",
+      "Moléculas, células e tecidos,",
+      "Uma visão geral da célula,"
+    ]
+  },
+  {
+    "numero": "4",
+    "enunciado": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de\ntemperatura ao longo de um dia denominada amplitude\ntérmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes\ntérmicas dessas regiões, em comparação com regiões que\nmantêm suas características naturais, com presença de\nvegetação e água, já que o calor específico do concreto é  inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às\náreas urbanas consiste em considerar a substituição\nda área concretada por um mesmo volume de água e\ncomparar as variações de temperatura devido à absorção\nda radiação solar nas duas situações (concretada e\nalagada). Desprezando os efeitos da evaporação e\nconsiderando que toda a radiação é absorvida, essa\navaliação pode ser realizada com os seguintes dados:A razão entre as variações de temperatura nas áreas\nconcretada e alagada é mais próxima de",
+    "topicos": [
+      "Física",
+      "Física Térmica - Termologia,",
+      "Calorimetria,"
+    ]
+  },
+  {
+    "numero": "5",
+    "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da\n\nágua em função de sua vazão:Utiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/gºC  e densidade de 1 000 g/L.O disjuntor  adequado para a proteção dessa ducha é especificado por:",
+    "topicos": [
+      "Física",
+      "Física Térmica - Termologia,",
+      "Calorimetria,",
+      "Eletricidade,",
+      "Resistores e Potência Elétrica"
+    ]
+  },
+  {
+    "numero": "6",
+    "enunciado": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.O gás obtido no experimento é o:",
+    "topicos": [
+      "Química",
+      "Transformações Químicas,",
+      "Soluções e Substâncias Inorgânicas,",
+      "Substâncias Inorgânicas e suas características: Ácidos, Bases, Sais e Óxidos. Reações de Neutralização.,",
+      "Transformações Químicas: elementos químicos, tabela periódica e reações químicas"
+    ]
+  },
+  {
+    "numero": "7",
+    "enunciado": "Em 2002, foi\n\npublicado um artigo científico que relacionava alterações na produção de hormônios sexuais de sapos machos expostos à atrazina, um herbicida, com o desenvolvimento anômalo de seus caracteres sexuais primários e secundários. Entre os animais sujeitos à Contaminação, observaram-se casos de hermafroditismo e desmasculinização da laringe. O estudo em questão comparou a concentração de um hormônio específico no sangue de machos expostos ao agrotóxico com a de outros machos e fêmeas que não o foram (controles). Os resultados podem ser vistos na figura.HAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to\nthe Herbicide Atrazine at Low Ecologically Relevant Doses.Proceedings of\nthe National Academy of Sciences, n. 8, 2002 (adaptado).Com base nas informações do texto, qual é o hormônio cujas concentrações estão representadas na figura?",
+    "topicos": [
+      "Biologia",
+      "Identidade dos seres vivos,",
+      "Introdução ao Estudo dos Animais,"
+    ]
+  },
+  {
+    "numero": "8",
+    "enunciado": "O elemento iodo (I) tem função biológica e é acumulado na tireoide. Nos acidentes nucleares de Chernobyl e Fukushima, ocorreu a liberação para a atmosfera do radioisótopo131I, responsável por enfermidades nas pessoas que foram expostas a ele. O decaimento de uma massa de 12 microgramas do isótopo131I foi monitorado por 14 dias, conforme o quadro.Após o período de 40 dias, a massa residual desse\nisótopo é mais próxima de",
+    "topicos": [
+      "Química",
+      "Transformações Químicas,",
+      "Transformações Químicas e Energia,",
+      "Radioatividade: Reações de Fissão e Fusão Nuclear, Desintegração Radioativa e Radioisótopos.,",
+      "Cinética Química,",
+      "Teoria Atômica: átomos e sua estrutura - número atômico, número de massa, isótopos, massa atômica,",
+      "Velocidade de Reação, Energia de Ativação, Concentração, Pressão, Temperatura e Catalisador"
+    ]
+  },
+  {
+    "numero": "9",
+    "enunciado": "Desde a proposição da teoria de seleção natural\npor Darwin, os seres vivos nunca mais foram olhados\nda mesma forma. No que diz respeito à reprodução de\nanfíbios anuros, os cientistas já descreveram diferentes\npadrões reprodutivos, como os exemplificados a seguir:Espécie 1 — As fêmeas produzem cerca de\n5 000 gametas, que são fecundados na água, em\nlagoas temporárias de estação chuvosa. Todo o\ndesenvolvimento embrionário, do ovo à metamorfose,\nocorre, nesse ambiente, independente dos pais.Espécie 2 — As fêmeas produzem aproximadamente\n200 gametas, que são depositados em poças próximas a\ncorpos-d'água. Os embriões são vigiados pelos machos\ndurante boa parte do seu desenvolvimento.Espécie 3 - As fêmeas produzem por volta de\n20 gametas, que são fecundados sobre a superfície e\nfolhas de plantas cujos galhos estão dispostos acima da superfície de corpos-d'água e aí se desenvolvem até a eclosão.Espécie 4 — As fêmeas produzem poucos gametas que, quando fecundados, são “abocanhados” pelos machos. Os embriões se desenvolvem no interior do saco vocal do macho até a metamorfose, quando saem através da boca do pai.Os padrões descritos evidenciam que",
+    "topicos": [
+      "Biologia",
+      "Origem e evolução da vida,",
+      "Evolução biológica,"
+    ]
+  },
+  {
+    "numero": "10",
+    "enunciado": "O eixo de rotação da Terra apresenta inclinação em relação ao plano de sua órbita em torno do Sol, interferindo na duração do dia e da noite ao longo do ano.Próximo a que região se situa a residência onde as placas\nforam instaladas?",
+    "topicos": [
+      "Geografia",
+      "Astronomia,"
+    ]
+  },
+  {
+    "numero": "11",
+    "enunciado": "A figura ilustra\nde solos esquematicamente um processo de remediação de solos  contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o Íon persulfato (S2O82-), que é convertido no radical •SO4-por minerais que contêm Fe(Ill). O esquema representa de forma simplificada o mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.Esse procedimento de remediação de águas subterrâneas baseia-se em reações de",
+    "topicos": [
+      "Química",
+      "Transformações Químicas,",
+      "Transformações Químicas e Energia,",
+      "Eletroquímica: Oxirredução, Potenciais Padrão de Redução, Pilha, Eletrólise e Leis de Faraday.,",
+      "Transformações Químicas: elementos químicos, tabela periódica e reações químicas"
+    ]
+  },
+  {
+    "numero": "12",
+    "enunciado": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.Uma medida profilática comum a essas duas doenças é o(a)",
+    "topicos": [
+      "Biologia",
+      "Qualidade de vida das populações humanas,",
+      "Principais doenças endêmicas no Brasil,"
+    ]
+  },
+  {
+    "numero": "13",
+    "enunciado": "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W/m2e que a eficiência dos painéis é de 20%.Parque Solar Lapa entra em operação. Disponível em: Wwww.canaibioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+    "topicos": [
+      "Física",
+      "Eletricidade,",
+      "Resistores e Potência Elétrica,"
+    ]
+  },
+  {
+    "numero": "14",
+    "enunciado": "Os riscos apresentados\n\npelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.Considere que houve o descarte indevido de dois conjuntos de substâncias:(1) ácido clorídrico concentrado com Cianeto de potássio;(2) ácido nítrico concentrado com sacarose.Disponível em: www.fiocruz.br. Acesso em: 6 dez 2017 (adaptado).O descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+    "topicos": [
+      "Química",
+      "Transformações Químicas,",
+      "Soluções e Substâncias Inorgânicas,",
+      "Substâncias Inorgânicas e suas características: Ácidos, Bases, Sais e Óxidos. Reações de Neutralização.,",
+      "Transformações Químicas: elementos químicos, tabela periódica e reações químicas"
+    ]
+  },
+  {
+    "numero": "15",
+    "enunciado": "O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.Corrente elétricaDano FísicoAté 10 mA                           Dor e contração muscularDe 10 mA até 20 mA           Aumento das contrações muscularesDe 20 mA até 100 mA         Parada respiratóriaDe 100 mA até 3A               Fibrilação ventricularAcima de 3 A                       Parada cardíaca e queimadurasA corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência\nelétrica média do corpo humano. Esse último fator está\nintimamente relacionado com a umidade da pele, que\nseca apresenta resistência elétrica da ordem de 500 kΩ,\nmas, se molhada, pode chegar a apenas 1 kΩ.Apesar de incomum, é possível sofrer um acidente\nutilizando baterias de 12 V. Considere que um indivíduo\ncom a pele molhada sofreu uma parada respiratória\nao tocar simultaneamente nos pontos A e B de uma\nassociação de duas dessas baterias.DURAN, J. E. R.Biofísica: fundamentos e aplicações.São Paulo: Pearson Prentice Hall, 2003 (adaptado).Qual associação de baterias foi responsável pelo acidente?",
+    "topicos": [
+      "Física",
+      "Eletricidade,",
+      "Resistores e Potência Elétrica,",
+      "Associação de Resistores,"
+    ]
+  },
+  {
+    "numero": "16",
+    "enunciado": "O urânio é empregado como fonte de energia em reatores nucleares. Para tanto, o seu mineral deve ser refinado, convertido a hexafluoreto de urânio e posteriormente enriquecido, para aumentar de 0,7% a 3% a abundância de um isótopo específico — o urânio-235.Uma das formas de enriquecimento utiliza a pequena diferença de massa entre os  hexafluoretos de urânio-235 e de urânio-238  para separá-los por efusão, precedida pela vaporização. Esses vapores devem efundir repetidamente milhares de vezes através de barreiras porosas formadas por telas com grande número de pequenos orifícios. No entanto, devido à complexidade e à grande quantidade de energia\nenvolvida, cientistas e engenheiros continuam a pesquisar\nprocedimentos alternativos de enriquecimento.ATKINS, P; JONES, L.Princípios de química: questionando a vida moderna e o meio ambiente.Porto Alegre: Bookman, 2006 (adaptado).Considerando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da\nefusão pode ser empregado para tal finalidade?",
+    "topicos": [
+      "Química",
+      "Transformações Químicas,",
+      "Teoria Atômica: átomos e sua estrutura - número atômico, número de massa, isótopos, massa atômica,"
+    ]
+  },
+  {
+    "numero": "17",
+    "enunciado": "A Agência Nacional de Vigilância Sanitária (Anvisa)\naprovou um produto de terapia gênica no país, indicado\npara o tratamento da distrofia hereditária da retina. O\nprocedimento é recomendado para crianças acima de\n12 meses e adultos com perda de visão causada pela\nmutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.ANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).O sucesso dessa terapia advém do fato de que o produto\nfavorecerá a",
+    "topicos": [
+      "Biologia",
+      "Hereditariedade e diversidade da vida,"
+    ]
+  },
+  {
+    "numero": "18",
+    "enunciado": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença do campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica. A figura ilustra um fio percorrido por uma corrente elétricai, constante e com sentido para cima. Os pontos A, B e C estão num plano  transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.Considerando apenas o campo magnético por causa da correntei, as respectivas configurações das bússolas nos pontos A, B e C serão",
+    "topicos": [
+      "Física",
+      "Magnetismo,",
+      "Campo e Força Magnética,"
+    ]
+  },
+  {
+    "numero": "19",
+    "enunciado": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas poder ser considerada um fator maximizador desse processo. A jaqueira (Artocarpus heterophyllus), por exemplo , é uma  árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional.Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+    "topicos": [
+      "Biologia",
+      "Ecologia e ciências ambientais,",
+      "Sucessão ecológica,",
+      "Biomas brasileiros,"
+    ]
+  },
+  {
+    "numero": "20",
+    "enunciado": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe  então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 ms-2.O resultado que eles obtiveram foi de",
+    "topicos": [
+      "Física",
+      "Cinemática,",
+      "Lançamento Horizontal,",
+      "Lançamento Vertical,"
+    ]
+  }
+]

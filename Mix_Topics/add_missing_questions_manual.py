@@ -235,7 +235,7 @@ def main():
     if not questoes_com_topicos:
         return
     
-    prova_com_topicos_data = load_json_file('prova_2023_com_topicos.json')
+    prova_com_topicos_data = load_json_file('prova_2022_com_topicos.json')
     if not prova_com_topicos_data:
         return
     
@@ -322,10 +322,10 @@ def main():
         prova_com_topicos_data['metadata']['questions_with_topics'] = len([q for q in questoes_prova_topicos if q.get('topicos')])
         
         # Salva o arquivo
-        with open('prova_2023_com_topicos.json', 'w', encoding='utf-8') as f:
+        with open('prova_2022_com_topicos.json', 'w', encoding='utf-8') as f:
             json.dump(prova_com_topicos_data, f, ensure_ascii=False, indent=2)
         
-        print(f"✅ Arquivo prova_2023_com_topicos.json atualizado com sucesso!")
+        print(f"✅ Arquivo prova_2022_com_topicos.json atualizado com sucesso!")
         print(f"📊 Total de questões: {len(questoes_prova_topicos)}")
         print(f"📊 Questões com tópicos: {prova_com_topicos_data['metadata']['questions_with_topics']}")
         
